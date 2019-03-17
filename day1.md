@@ -6,6 +6,6 @@
     2. 可以通过Series创建DataFrame;
     
 3.  dataFrame.T可以使DataFrame转向;
- 
+4.
 
 
